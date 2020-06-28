@@ -17,8 +17,7 @@ p{
   margin:0;
   width:130px;
   text-align:center;
-  position:relative;
-  right:20px;
+  margin-right:20px;
   height:30px;
   padding:3px;
 }
